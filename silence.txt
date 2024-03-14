@@ -1,0 +1,173 @@
+# [Nourriture desert]
+
+ - La figue de Barbarie
+ - Moussaka
+ - Tajine
+ - coucous
+ - Thé a la menthe
+
+
+# [nourriture plaine]
+
+ - pain
+ - pizza
+ - Pavé de boeuf
+ - omelette
+ - ratatouille
+
+
+# [nourriture Neige]
+
+ - raclette
+ - Fondue
+ - Viande de Renne
+ - poisson séché
+ - Soupe
+
+
+# [nourriture Forêt]
+
+ - Pomme de pin
+ - Framboise
+ - Champignon
+ - Carottes sauvages
+ - lapin
+
+# [nourriture Sakura]
+
+ - pétale de cerisier
+ - Ramen
+ - Saké
+ - Nouille instantané
+ - sushi
+
+
+# [nourriture plage]
+
+ - Crabe
+ - moules
+ - algues
+ - poisson
+ - coquillages
+
+# [nourriture montagne]
+
+ - myrtilles
+ - chevreuille
+ - Chèvre
+ - Chocolat chaud
+ - Aligot
+
+
+# [animaux désert]
+
+ - serpent
+ - scorpion
+
+
+# [animaux plaine]
+
+ - cheval
+ - lièvre
+
+# [animaux neige]
+
+ - ours polaire
+ - yak
+
+
+# [animaux forêt]
+
+ - poisson
+ - sanglier
+
+
+# [animaux sakura]
+
+ - panda
+ - papillon
+
+
+# [animaux plage]
+
+ - crabe
+ - tortue
+
+
+# [animaux montagne]
+
+ - marmotte
+ - bouc
+
+
+# [biomes]
+
+ - desert
+ - plaine
+ - Neige
+ - foret
+ - sakura( 5%)
+ - plage
+ - montagne
+
+
+# [Marchand]
+
+ - jaune
+ - noir
+ - rouge
+
+
+# [armes desert]
+
+ - Sabre oriental
+ - arbalette
+ - miroire
+ - cimeterre
+
+# [armes plaine]
+
+ - lance
+ - lance pierre
+ - fronde
+ - épée
+
+
+
+# [armes neige]
+
+ - boule de neige
+ - stalictite
+ - arc
+ - gourdin
+
+
+# [armes forêt]
+
+ - arbalette
+ - harpon
+ - corde
+ - piège à loup
+
+# [armes sakura]
+
+ - katana
+ - jupe de lycéenne
+ - dragon ball
+ - evantaille
+
+
+# [armes plage]
+
+ - parasole
+ - harpon
+ - pistolet à eau
+ - dent de requin
+
+
+# [armes montagne]
+
+ - halbarde
+ - siflet
+ - pioche
+ - silex
